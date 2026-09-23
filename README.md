@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Copotronic Infosystems Ltd
+- 🔭 I’m currently working on KuiperZ
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 💬 Ask me about Web Development
